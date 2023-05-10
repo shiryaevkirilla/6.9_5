@@ -1,0 +1,25 @@
+.modal {
+  width: 500px;
+  height: 200px;
+  background: black;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.modal__header {
+  width: 450px;
+  height: 100px;
+  background: blue;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.modal__close {
+  position: static;
+  right: 10px;
+}
+
+.modal__footer.button {
+  position: static;
+  right: 10px;
+}
